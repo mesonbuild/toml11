@@ -1,0 +1,6 @@
+[wrap-file]
+directory = toml11-3.6.0
+
+source_url = https://github.com/ToruNiina/toml11/archive/v3.6.0.tar.gz
+source_filename = toml11-3.6.0.tar.gz
+source_hash = 39e8d651db346ae8c7e3b39d6338a37232b9af3bba36ade45b241bf105c2226c
